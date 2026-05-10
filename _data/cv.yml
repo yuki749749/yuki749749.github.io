@@ -12,7 +12,7 @@ cv:
       username: yuki-okamoto-98b470250
 
   sections:
-    Research Interests:
+    Interests:
       - label: Deep generative models
       - label: Probabilistic modelling
       - label: Bayesian inference
@@ -41,7 +41,7 @@ cv:
         highlights:
           - Exchange studies at KTH during August 2022 - June 2023
 
-    Research Experience:
+    Experience:
       - company: KTH Royal Institute of Technology
         position: Master's Thesis Student at Division of Probability, Mathematical Physics and Statistics
         location: Stockholm, Sweden
@@ -83,62 +83,45 @@ cv:
           - Performed large-scale numerical simulations to analyze environmental impacts of CO₂ leakage.
           - Designed and implemented a modified greedy solution for optimal coverage problems.
 
+      - company: TEDxUTokyo
+        position: Board Member
+        location: Tokyo, Japan
+        start_date: 2021
+        end_date: 2022
+        summary: "Event organization and leadership"
+        highlights:
+          - Co-organized a TEDx conference at the University of Tokyo with 400 participants.
+          - Managed logistics, coordinated with stakeholders, and secured over 10 enterprise sponsorships.
+          - Gained experience in structured administration and event management.
+
     Publications:
       - title: "Cost assessment of optimal seawater monitoring for unexpected CO₂ leakage from an offshore reservoir"
         authors: "Y. Okamoto, T. Sato, and S. Kanao"
-        journal: "International Journal of Greenhouse Gas Control"
-        volume: 146
-        pages: 104455
-        date: 2025
+        publisher: "International Journal of Greenhouse Gas Control"
+        releaseDate: 2025-01-01
         url: https://doi.org/10.1016/j.ijggc.2025.104455
+        summary: "Volume 146, pages 104455"
 
-    Conference Presentations:
-      - title: "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS"
-        event: "17th Greenhouse Gas Control Technologies"
-        location: "Calgary, Canada"
-        date: 2024
-        highlights:
-          - Presented at GHGT-17, October 20-24, 2024
-
-      - title: "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS"
-        event: "The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting"
-        location: "Kanazawa, Japan"
-        date: 2024
-        highlights:
-          - Presented at JSNAOE Spring Meeting, May 27-28, 2024
-
-    Seminars:
-      - title: "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS"
-        event: "Imperial College London, University of Bergen, and Plymouth Marine Laboratory"
-        location: "UK and Norway"
-        date: 2024
-        highlights:
-          - Presented at three institutions, February 10-18, 2024
-
-    Honours and Awards:
+    Awards:
       - title: "Environmental Fund Scholarship"
         issuer: "Swedish Engineers Association (Miljöfonden)"
         date: 2025
-        highlights:
-          - Granted 50,000 SEK for thesis project with environmental focus
+        summary: "Granted 50,000 SEK for thesis project with environmental focus"
 
       - title: "Musha Shugyo Program"
         issuer: "The University of Tokyo"
         date: 2024
-        highlights:
-          - Granted 30,000 SEK to present bachelor's thesis at international universities
+        summary: "Granted 30,000 SEK to present bachelor's thesis at international universities"
 
       - title: "Takenaka Scholarship Foundation"
         issuer: "Takenaka Scholarship Foundation"
         date: 2023
-        highlights:
-          - Granted 700,000 SEK for two years of graduate studies, with possible three-year extension for doctoral studies
+        summary: "Granted 700,000 SEK for two years of graduate studies, with possible three-year extension for doctoral studies"
 
       - title: "Gyomu Super Japan Dream Foundation"
         issuer: "Gyomu Super Japan Dream Foundation"
         date: 2022
-        highlights:
-          - Granted 95,000 SEK for exchange studies in Sweden
+        summary: "Granted 95,000 SEK for exchange studies in Sweden"
 
     Skills:
       - label: Programming
@@ -147,19 +130,8 @@ cv:
       - label: Tools & Frameworks
         details: PyTorch, GPyTorch, Hydra, NumPy, Pandas, Matplotlib, Scikit-learn
 
-      - label: Language Skills
+      - label: Languages
         details: Japanese (native), English (professional), Swedish (advanced)
 
       - label: Soft Skills
         details: Leadership, Project management, Problem solving, Team collaboration
-
-    Extracurricular Activities:
-      - company: TEDxUTokyo
-        position: Board Member
-        location: Tokyo, Japan
-        start_date: 2021
-        end_date: 2022
-        highlights:
-          - Co-organized a TEDx conference at the University of Tokyo with 400 participants.
-          - Managed logistics, coordinated with stakeholders, and secured over 10 enterprise sponsorships.
-          - Gained experience in structured administration and event management.
