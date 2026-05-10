@@ -13,12 +13,14 @@ cv:
 
   sections:
     Interests:
-      - label: Deep generative models
-      - label: Probabilistic modelling
-      - label: Bayesian inference
-      - label: Statistical machine learning
-      - label: Signal and image processing
-      - label: Inverse problems in imaging
+      - name: Research Areas
+        keywords:
+          - Deep generative models
+          - Probabilistic modelling
+          - Bayesian inference
+          - Statistical machine learning
+          - Signal and image processing
+          - Inverse problems in imaging
 
     Education:
       - institution: KTH Royal Institute of Technology
@@ -124,14 +126,31 @@ cv:
         summary: "Granted 95,000 SEK for exchange studies in Sweden"
 
     Skills:
-      - label: Programming
-        details: Python, Git, MATLAB
+      - name: Programming
+        keywords:
+          - Python
+          - Git
+          - MATLAB
 
-      - label: Tools & Frameworks
-        details: PyTorch, GPyTorch, Hydra, NumPy, Pandas, Matplotlib, Scikit-learn
+      - name: Tools & Frameworks
+        keywords:
+          - PyTorch
+          - GPyTorch
+          - Hydra
+          - NumPy
+          - Pandas
+          - Matplotlib
+          - Scikit-learn
 
-      - label: Languages
-        details: Japanese (native), English (professional), Swedish (advanced)
+      - name: Languages
+        keywords:
+          - Japanese (native)
+          - English (professional)
+          - Swedish (advanced)
 
-      - label: Soft Skills
-        details: Leadership, Project management, Problem solving, Team collaboration
+      - name: Soft Skills
+        keywords:
+          - Leadership
+          - Project management
+          - Problem solving
+          - Team collaboration
