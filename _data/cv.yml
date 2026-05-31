@@ -47,12 +47,12 @@ cv:
       - company: KTH Royal Institute of Technology
         position: Master's Thesis Student at Division of Probability, Mathematical Physics and Statistics
         location: Stockholm, Sweden
-        start_date: 2025
-        end_date: "Present"
-        summary: "Supervisor: Asst. Prof. Soon Hoe Lim. Thesis Title: Belief-conditioned Diffusion Planner for Field Estimation"
+        start_date: 2026
+        end_date: 2026
+        summary: "Supervisor: Asst. Prof. Soon Hoe Lim. Thesis Title: Planning as Conditional Generative Sampling: Belief- and Reward-Conditioned Diffusion Planners for Informative Path Planning"
         highlights:
-          - Formulated adaptive trajectory planning as a conditional inference problem by training a diffusion model over kinematically constrained path distributions conditioned on Gaussian process belief states.
-          - Integrated Gaussian process belief modelling, classifier-free guidance, and receding horizon control into a unified inference pipeline.
+          - Developed a conditional generative framework utilizing diffusion models (DDPMs) to sample high-reward trajectories for autonomous underwater vehicles.
+          - Evaluated the model's out-of-distribution generalization, proving that feasible OOD conditioning allows the planner to synthesize novel behaviors absent from the training demonstrations.
 
       - company: KTH Royal Institute of Technology
         position: Research Assistant at Medical Imaging Physics Group
@@ -105,25 +105,25 @@ cv:
         summary: "Volume 146, pages 104455"
 
     Awards:
-      - title: "Environmental Fund Scholarship"
-        issuer: "Swedish Engineers Association (Miljöfonden)"
+      - title: "Environmental Research Grant"
+        issuer: "Miljöfonden, Swedish Engineers Association"
         date: 2025
-        summary: "Granted 50,000 SEK for thesis project with environmental focus"
+        summary: "Granted 50,000 SEK for a thesis project focused on environmental sustainability"
 
-      - title: "Musha Shugyo Program"
-        issuer: "The University of Tokyo"
+      - title: "Travel Grant"
+        issuer: "Musha Shugyo Program, The University of Tokyo"
         date: 2024
-        summary: "Granted 30,000 SEK to present bachelor's thesis at international universities"
+        summary: "Granted 450,000 JPY to fund research presentations at the University of Bergen, Imperial College London, and Plymouth Marine Laboratory"
 
-      - title: "Takenaka Scholarship Foundation"
+      - title: "Graduate Fellowship"
         issuer: "Takenaka Scholarship Foundation"
         date: 2023
-        summary: "Granted 700,000 SEK for two years of graduate studies, with possible three-year extension for doctoral studies"
+        summary: "Highly selective national scholarship (max. 3 recipients annually) granting 10,000,000 JPY covering two years of graduate studies, extendable for doctoral studies"
 
-      - title: "Gyomu Super Japan Dream Foundation"
+      - title: "Study Abroad Fellowship"
         issuer: "Gyomu Super Japan Dream Foundation"
         date: 2022
-        summary: "Granted 95,000 SEK for exchange studies in Sweden"
+        summary: "Competitive scholarship granting 1,350,000 JPY awarded to support exchange studies at KTH Royal Institute of Technology"
 
     Skills:
       - name: Programming
