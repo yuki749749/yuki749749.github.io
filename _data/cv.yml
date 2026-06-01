@@ -1,11 +1,11 @@
 cv:
   name: Yuki Okamoto
-  label: Master's Student in Applied and Computational Mathematics
+  label: Research Engineer
   email: okamoto@kth.se
   location: Stockholm, Sweden
   phone_number: "+46 73 996 49 31"
   image: ""
-  summary: Master's student in Applied and Computational Mathematics at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical imaging and inverse problems.
+  summary: Research Engineer at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical and environmental domains.
 
   social_networks:
     - network: LinkedIn
@@ -55,7 +55,7 @@ cv:
           - Evaluated the model's out-of-distribution generalization, proving that feasible OOD conditioning allows the planner to synthesize novel behaviors absent from the training demonstrations.
 
       - company: KTH Royal Institute of Technology
-        position: Research Assistant at Medical Imaging Physics Group
+        position: Research Engineer at Physics of Medical Imaging Group
         location: Stockholm, Sweden
         start_date: 2025
         end_date: "Present"
@@ -154,3 +154,35 @@ cv:
           - Project management
           - Problem solving
           - Team collaboration
+
+    Presentations:
+      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at 17th Greenhouse Gas Control Technologies, Calgary, Canada, October 20-24, 2024.'
+      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting, Kanazawa, Japan, May 27-28, 2024.'
+      - bullet: '<u>**Y. Okamoto**</u>, "Diffusion Planner for Underwater CO₂ Monitoring", presented at KTH Climate Action Centre, Stockholm, Sweden, May 26, 2026.'
+      - bullet: '<u>**Y. Okamoto**</u>, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at Imperial College London (UK), University of Bergen (Norway), and Plymouth Marine Laboratory (UK), February 10-18, 2024.'
+
+    References:
+      - name: "Prof. Toru Sato"
+        reference: |
+          Bachelor's thesis supervisor <br>
+          Dept. of Ocean Technology, Policy, and Environment <br>
+          The University of Tokyo <br>
+          [sato-t@edu.k.u-tokyo.ac.jp](mailto:sato-t@edu.k.u-tokyo.ac.jp)
+      - name: "Prof. Mats Danielsson"
+        reference: |
+          Research assistant supervisor <br>
+          Department of Physics <br>
+          KTH Royal Institute of Technology <br>
+          [md@mi.physics.kth.se](mailto:md@mi.physics.kth.se)
+      - name: "Assoc. Prof. Mats Persson"
+        reference: |
+          Research assistant supervisor <br>
+          Department of Physics <br>
+          KTH Royal Institute of Technology <br>
+          [persson6@kth.se](mailto:persson6@kth.se)
+      - name: "Asst. Prof. Soon Hoe Lim"
+        reference: |
+          Master's thesis supervisor <br>
+          Department of Mathematics <br>
+          KTH Royal Institute of Technology <br>
+          [shlim@kth.se](mailto:shlim@kth.se)"
