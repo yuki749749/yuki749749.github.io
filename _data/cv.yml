@@ -1,18 +1,18 @@
 cv:
   name: Yuki Okamoto
-  label: Research Engineer
+  # label: Research Engineer
   email: "okamoto [at] kth.se"
   location: Stockholm, Sweden
   phone_number: "+46 73 996 49 31"
   image: ""
-  summary: Research Engineer at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical and environmental domains.
+  # summary: Research Engineer at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical and environmental domains.
 
   social_networks:
     - network: LinkedIn
       username: yuki-okamoto-98b470250
 
   sections:
-    Research interest:
+    Research Interest:
       - name: Research Areas
         keywords:
           - Deep generative models
@@ -31,7 +31,7 @@ cv:
         start_date: 2024
         end_date: 2026
         highlights:
-          - Focus on deep generative models and probabilistic inference
+          - Mathematics of Data Science track
 
       - institution: The University of Tokyo
         location: Tokyo, Japan
@@ -94,12 +94,12 @@ cv:
         summary: "Volume 146, pages 104455"
 
     Conference Oral Presentations:
-      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at 17th Greenhouse Gas Control Technologies, Calgary, Canada, October 20-24, 2024.'
-      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting, Kanazawa, Japan, May 27-28, 2024.'
+      - bullet: '<strong><u>Y. Okamoto</u></strong> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at 17th Greenhouse Gas Control Technologies, Calgary, Canada, October 20-24, 2024.'
+      - bullet: '<strong><u>Y. Okamoto</u></strong> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting, Kanazawa, Japan, May 27-28, 2024.'
 
     Seminars:
-      - bullet: '<u>**Y. Okamoto**</u>, "Diffusion Planner for Underwater CO₂ Monitoring", presented at KTH Climate Action Centre, Stockholm, Sweden, May 26, 2026.'
-      - bullet: '<u>**Y. Okamoto**</u>, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at Imperial College London (UK), University of Bergen (Norway), and Plymouth Marine Laboratory (UK), February 10-18, 2024.'
+      - bullet: '<strong><u>Y. Okamoto</u></strong>, "Diffusion Planner for Underwater CO₂ Monitoring", presented at KTH Climate Action Centre, Stockholm, Sweden, May 26, 2026.'
+      - bullet: '<strong><u>Y. Okamoto</u></strong>, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at Imperial College London (UK), University of Bergen (Norway), and Plymouth Marine Laboratory (UK), February 10-18, 2024.'
 
     Awards:
       - title: "Environmental Research Grant"
