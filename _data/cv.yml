@@ -1,7 +1,7 @@
 cv:
   name: Yuki Okamoto
   label: Research Engineer
-  email: okamoto@kth.se
+  email: "okamoto [at] kth.se"
   location: Stockholm, Sweden
   phone_number: "+46 73 996 49 31"
   image: ""
@@ -167,22 +167,22 @@ cv:
           Bachelor's thesis supervisor <br>
           Dept. of Ocean Technology, Policy, and Environment <br>
           The University of Tokyo <br>
-          [sato-t@edu.k.u-tokyo.ac.jp](mailto:sato-t@edu.k.u-tokyo.ac.jp)
+          sato-t [at] edu.k.u-tokyo.ac.jp
       - name: "Prof. Mats Danielsson"
         reference: |
           Research assistant supervisor <br>
           Department of Physics <br>
           KTH Royal Institute of Technology <br>
-          [md@mi.physics.kth.se](mailto:md@mi.physics.kth.se)
+          md [at] mi.physics.kth.se
       - name: "Assoc. Prof. Mats Persson"
         reference: |
           Research assistant supervisor <br>
           Department of Physics <br>
           KTH Royal Institute of Technology <br>
-          [persson6@kth.se](mailto:persson6@kth.se)
+          persson6 [at] kth.se
       - name: "Asst. Prof. Soon Hoe Lim"
         reference: |
           Master's thesis supervisor <br>
           Department of Mathematics <br>
           KTH Royal Institute of Technology <br>
-          [shlim@kth.se](mailto:shlim@kth.se)"
+          shlim [at] kth.se
