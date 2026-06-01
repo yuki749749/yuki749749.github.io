@@ -12,7 +12,7 @@ cv:
       username: yuki-okamoto-98b470250
 
   sections:
-    Interests:
+    Research interest:
       - name: Research Areas
         keywords:
           - Deep generative models
@@ -43,7 +43,7 @@ cv:
         highlights:
           - Exchange studies at KTH during August 2022 - June 2023
 
-    Experience:
+    Research experience:
       - company: KTH Royal Institute of Technology
         position: Master's Thesis Student at Division of Probability, Mathematical Physics and Statistics
         location: Stockholm, Sweden
@@ -85,17 +85,6 @@ cv:
           - Performed large-scale numerical simulations to analyze environmental impacts of CO₂ leakage.
           - Designed and implemented a modified greedy solution for optimal coverage problems.
 
-      - company: TEDxUTokyo
-        position: Board Member
-        location: Tokyo, Japan
-        start_date: 2021
-        end_date: 2022
-        summary: "Event organization and leadership"
-        highlights:
-          - Co-organized a TEDx conference at the University of Tokyo with 400 participants.
-          - Managed logistics, coordinated with stakeholders, and secured over 10 enterprise sponsorships.
-          - Gained experience in structured administration and event management.
-
     Publications:
       - title: "Cost assessment of optimal seawater monitoring for unexpected CO₂ leakage from an offshore reservoir"
         authors: "Y. Okamoto, T. Sato, and S. Kanao"
@@ -103,6 +92,14 @@ cv:
         releaseDate: 2025-01-01
         url: https://doi.org/10.1016/j.ijggc.2025.104455
         summary: "Volume 146, pages 104455"
+
+    Conference Oral Presentations:
+      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at 17th Greenhouse Gas Control Technologies, Calgary, Canada, October 20-24, 2024.'
+      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting, Kanazawa, Japan, May 27-28, 2024.'
+
+    Seminars:
+      - bullet: '<u>**Y. Okamoto**</u>, "Diffusion Planner for Underwater CO₂ Monitoring", presented at KTH Climate Action Centre, Stockholm, Sweden, May 26, 2026.'
+      - bullet: '<u>**Y. Okamoto**</u>, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at Imperial College London (UK), University of Bergen (Norway), and Plymouth Marine Laboratory (UK), February 10-18, 2024.'
 
     Awards:
       - title: "Environmental Research Grant"
@@ -154,12 +151,6 @@ cv:
           - Project management
           - Problem solving
           - Team collaboration
-
-    Presentations:
-      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at 17th Greenhouse Gas Control Technologies, Calgary, Canada, October 20-24, 2024.'
-      - bullet: '<u>**Y. Okamoto**</u> and T. Sato, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at The Japan Society of Naval Architects and Ocean Engineers 2024 Annual Spring Meeting, Kanazawa, Japan, May 27-28, 2024.'
-      - bullet: '<u>**Y. Okamoto**</u>, "Diffusion Planner for Underwater CO₂ Monitoring", presented at KTH Climate Action Centre, Stockholm, Sweden, May 26, 2026.'
-      - bullet: '<u>**Y. Okamoto**</u>, "Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS," presented at Imperial College London (UK), University of Bergen (Norway), and Plymouth Marine Laboratory (UK), February 10-18, 2024.'
 
     References:
       - name: "Prof. Toru Sato"
