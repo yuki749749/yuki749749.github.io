@@ -68,12 +68,14 @@
     {%- elsif entry.website -%}
       {%- assign entry_url = entry.website -%}
     {%- else -%}
-      {%- assign entry_url = nil -%}
+      {%- assign entry_url = null -%}
     {%- endif -%}
 
     <!-- Title -->
     {%- if entry_url -%}
-      <div class="title"><a href="{{ entry_url }}">{{ entry.title }}</a></div>
+      <div class="title">
+        <a href="{{ entry_url }}">{{ entry.title }}</a>
+      </div>
     {%- else -%}
       <div class="title">{{ entry.title }}</div>
     {%- endif -%}
