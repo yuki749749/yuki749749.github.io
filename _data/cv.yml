@@ -13,14 +13,22 @@ cv:
 
   sections:
     Research Interest:
-      - name: Research Areas
+      - name: Machine learning
         keywords:
-          - Deep generative models
+          - Deep generative models (DDPMs, flow matching, transformers)
+          - Set and sequence modeling
+          - Statistical learning
+      - name: Mathematics
+        keywords:
           - Probabilistic modeling
-          - Bayesian inference
-          - Statistical machine learning
-          - Signal and image processing
-          - Inverse problems in imaging
+          - Stochastic processes
+          - Bayesian inverse problems
+      - name: Application
+        keywords:
+          - Medical imaging
+          - Environmental monitoring
+          - Marine technology
+          - Sustainability
 
     Education:
       - institution: KTH Royal Institute of Technology
