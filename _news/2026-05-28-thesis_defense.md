@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I defended my Master's thesis on _Planning as Conditional Generative Sampling: Belief- and Reward-Conditioned Diffusion Planners for Informative Path Planning_!
+I defended my Master's thesis on _Planning as Conditional Generative Sampling: Belief- and Reward-Conditioned Diffusion Planners for Informative Path Planning_ !
