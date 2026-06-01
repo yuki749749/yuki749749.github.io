@@ -16,7 +16,7 @@ cv:
       - name: Research Areas
         keywords:
           - Deep generative models
-          - Probabilistic modelling
+          - Probabilistic modeling
           - Bayesian inference
           - Statistical machine learning
           - Signal and image processing
@@ -49,7 +49,7 @@ cv:
         location: Stockholm, Sweden
         start_date: 2026
         end_date: 2026
-        summary: "Supervisor: Asst. Prof. Soon Hoe Lim. Thesis Title: Planning as Conditional Generative Sampling: Belief- and Reward-Conditioned Diffusion Planners for Informative Path Planning"
+        summary: "Supervisor: Asst. Prof. Soon Hoe Lim.<br>Thesis Title: Planning as Conditional Generative Sampling: Belief- and Reward-Conditioned Diffusion Planners for Informative Path Planning"
         highlights:
           - Developed a conditional generative framework utilizing diffusion models (DDPMs) to sample high-reward trajectories for autonomous underwater vehicles.
           - Evaluated the model's out-of-distribution generalization, proving that feasible OOD conditioning allows the planner to synthesize novel behaviors absent from the training demonstrations.
@@ -79,7 +79,7 @@ cv:
         location: Tokyo, Japan
         start_date: 2023
         end_date: 2024
-        summary: "Supervisor: Prof. Toru Sato. Thesis Title: Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS"
+        summary: "Supervisor: Prof. Toru Sato.<br>Thesis Title: Proposal and cost evaluation of observation point placement method for underwater monitoring of sub-seabed CCS"
         highlights:
           - Developed a cost-efficient monitoring framework for offshore carbon capture and storage (CCS).
           - Performed large-scale numerical simulations to analyze environmental impacts of CO₂ leakage.
