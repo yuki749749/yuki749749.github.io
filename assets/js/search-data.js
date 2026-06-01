@@ -28,16 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-a-research-assistant-position-at-the-physics-of-medical-imaging-group-at-kth-royal-institute-of-technology-physics-sparkles",
+          title: 'I started a research assistant position at the Physics of Medical Imaging group...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-defended-my-master-s-thesis-on-planning-as-conditional-generative-sampling-belief-and-reward-conditioned-diffusion-planners-for-informative-path-planning-mortar-board-sparkles",
+          title: 'I defended my Master’s thesis on Planning as Conditional Generative Sampling: Belief- and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
