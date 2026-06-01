@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Engineer | KTH
 
@@ -25,3 +25,5 @@ My research interests lie at the intersection of machine learning and applied ma
 Previously, I received my Master’s degree in Applied and Computational Mathematics from [KTH](https://www.kth.se), where my thesis was supervised by [Asst. Prof. Soon Hoe Lim](https://www.kth.se/profile/shlim). Prior to that, I obtained my Bachelor’s degree in Systems Innovation at [The University of Tokyo](https://www.u-tokyo.ac.jp) under the supervision of [Prof. Toru Sato](https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/toru_sato/).
 
 **I am currently seeking PhD positions starting in 2027. Please feel free to reach out!**
+
+📄 **[Curriculum Vitae](/assets/pdf/cv.pdf)** · [Email](mailto:{{ 'okamoto@kth.se' | encode_email }})
