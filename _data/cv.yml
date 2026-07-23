@@ -160,28 +160,28 @@ cv:
           - Problem solving
           - Team collaboration
 
-    References:
-      - name: "Prof. Toru Sato"
-        reference: |
-          Bachelor's thesis supervisor <br>
-          Dept. of Ocean Technology, Policy, and Environment <br>
-          The University of Tokyo <br>
-          sato-t [at] edu.k.u-tokyo.ac.jp
-      - name: "Prof. Mats Danielsson"
-        reference: |
-          Research assistant supervisor <br>
-          Department of Physics <br>
-          KTH Royal Institute of Technology <br>
-          md [at] mi.physics.kth.se
-      - name: "Assoc. Prof. Mats Persson"
-        reference: |
-          Research assistant supervisor <br>
-          Department of Physics <br>
-          KTH Royal Institute of Technology <br>
-          persson6 [at] kth.se
-      - name: "Asst. Prof. Soon Hoe Lim"
-        reference: |
-          Master's thesis supervisor <br>
-          Department of Mathematics <br>
-          KTH Royal Institute of Technology <br>
-          shlim [at] kth.se
+#    References:
+#      - name: "Prof. Toru Sato"
+#        reference: |
+#          Bachelor's thesis supervisor <br>
+#          Dept. of Ocean Technology, Policy, and Environment <br>
+#          The University of Tokyo <br>
+#          sato-t [at] edu.k.u-tokyo.ac.jp
+#      - name: "Prof. Mats Danielsson"
+#        reference: |
+#          Research assistant supervisor <br>
+#          Department of Physics <br>
+#          KTH Royal Institute of Technology <br>
+#          md [at] mi.physics.kth.se
+#      - name: "Assoc. Prof. Mats Persson"
+#        reference: |
+#          Research assistant supervisor <br>
+#          Department of Physics <br>
+#          KTH Royal Institute of Technology <br>
+#          persson6 [at] kth.se
+#      - name: "Asst. Prof. Soon Hoe Lim"
+#        reference: |
+#          Master's thesis supervisor <br>
+#          Department of Mathematics <br>
+#          KTH Royal Institute of Technology <br>
+#          shlim [at] kth.se
