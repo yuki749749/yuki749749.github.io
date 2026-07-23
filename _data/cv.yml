@@ -1,9 +1,9 @@
 cv:
   name: Yuki Okamoto
   # label: Research Engineer
-  email: "okamoto [at] kth.se"
+  # email: "okamoto [at] kth.se"
   location: Stockholm, Sweden
-  phone_number: "+46 73 996 49 31"
+  # phone_number: "+46 73 996 49 31"
   image: ""
   # summary: Research Engineer at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical and environmental domains.
 
@@ -15,9 +15,8 @@ cv:
     Research Interest:
       - name: Machine learning
         keywords:
-          - Deep generative models (DDPMs, flow matching, transformers)
-          - Set and sequence modeling
-          - Statistical learning
+          - Deep generative models (DDPMs, flow matching)
+          - Variational inference
       - name: Mathematics
         keywords:
           - Probabilistic modeling
