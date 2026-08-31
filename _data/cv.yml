@@ -15,8 +15,8 @@ cv:
     Research Interest:
       - name: Machine learning
         keywords:
-          - Deep generative models (DDPMs, flow matching)
           - Variational inference
+          - Deep generative models
       - name: Mathematics
         keywords:
           - Probabilistic modeling
@@ -24,9 +24,8 @@ cv:
           - Bayesian inverse problems
       - name: Application
         keywords:
-          - Medical imaging
-          - Environmental monitoring
-          - Marine technology
+          - Cancer evolution
+          - Phylogenetics
           - Sustainability
 
     Education:
