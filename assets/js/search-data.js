@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "news-i-was-awarded-the-prestigious-graduate-fellowship-by-the-takenaka-scholarship-foundation-for-my-graduate-studies-at-kth",
           title: 'I was awarded the prestigious graduate fellowship by the Takenaka Scholarship Foundation for...',
           description: "",
