@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded 50,000 SEK by Miljöfonden, Swedish Engineers Association, for [thesis project with environmental focus](https://www.kth.se/climateactioncentre/news-event/news/kth-climate-action-centre-welcomes-2026-environmental-thesis-scholarship-recipients-1.1458978)!
+I was awarded 50,000 SEK by Miljöfonden, Swedish Engineers Association, for a [thesis project with environmental focus](https://www.kth.se/climateactioncentre/news-event/news/kth-climate-action-centre-welcomes-2026-environmental-thesis-scholarship-recipients-1.1458978)!

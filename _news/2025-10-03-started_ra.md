@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a research assistant position at the [Physics of Medical Imaging group](https://www.mi.physics.kth.se/web/index.html) at KTH Royal Institute of Technology!
+I started a research engineer position at the [Physics of Medical Imaging group](https://www.mi.physics.kth.se/web/index.html) at KTH Royal Institute of Technology!

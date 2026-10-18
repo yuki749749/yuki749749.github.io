@@ -3,7 +3,6 @@ cv:
   # label: Research Engineer
   # email: "okamoto [at] kth.se"
   location: Stockholm, Sweden
-  # phone_number: "+46 73 996 49 31"
   image: ""
   # summary: Research Engineer at KTH Royal Institute of Technology specializing in deep generative models, probabilistic modeling, and statistical machine learning with applications to medical and environmental domains.
 
@@ -29,6 +28,15 @@ cv:
           - Sustainability
 
     Education:
+      - institution: KTH Royal Institute of Technology / SciLifeLab
+        location: Stockholm, Sweden
+        url: https://www.kth.se/
+        studyType: Doctor of Philosophy
+        start_date: 2026
+        end_date: "Present"
+        highlights:
+          - "Supervisor: Prof. Jens Lagergren"
+
       - institution: KTH Royal Institute of Technology
         location: Stockholm, Sweden
         url: https://www.kth.se/
@@ -64,7 +72,7 @@ cv:
         position: Research Engineer at Physics of Medical Imaging Group
         location: Stockholm, Sweden
         start_date: 2025
-        end_date: "Present"
+        end_date: 2026
         summary: "Supervisors: Prof. Mats Danielsson, Assoc. Prof. Mats Persson, Per Lundhammar"
         highlights:
           - Designed and implemented a permutation-equivariant deep learning model using Set Transformer to infer temporal ordering of unordered photon detection data in SPECT imaging.
