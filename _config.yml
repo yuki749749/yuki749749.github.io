@@ -23,6 +23,32 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+blog_name: Notes # shown as the header of the blog page
+blog_description: Math topics and things I learned along the way
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
+
+# Pagination
+pagination:
+  enabled: true
+
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
+# year, tag and category archive pages (e.g. /blog/tag/probability/)
+jekyll-archives:
+  posts:
+    enabled: [year, tags, categories]
+    permalinks:
+      year: "/blog/:year/"
+      tags: "/blog/:type/:name/"
+      categories: "/blog/:type/:name/"
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
@@ -149,8 +175,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts/
-  - _pages/blog.md
 
 keep_files:
   - CNAME

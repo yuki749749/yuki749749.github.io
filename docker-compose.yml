@@ -19,3 +19,8 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    # show posts marked `published: false` locally (the live site still hides them)
+    command:
+      - bash
+      - -c
+      - sed 's/--force_polling/--force_polling --unpublished/' /tmp/entry_point.sh > /tmp/entry_point_local.sh && exec bash /tmp/entry_point_local.sh
